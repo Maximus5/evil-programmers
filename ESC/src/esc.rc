@@ -14,7 +14,7 @@ FILETYPE 2
   BLOCK "000004E4"
   {
    VALUE "FileDescription", PLUGIN_DESC "\000"
-   VALUE "FileVersion", STR(PLUGIN_MAJOR) "." STR(PLUGIN_MINOR) "\000"
+   VALUE "FileVersion", STR(PLUGIN_MAJOR) "." STR(PLUGIN_MINOR) "bis\000"
    VALUE "InternalName", PLUGIN_NAME "\000"
    VALUE "LegalCopyright", PLUGIN_AUTHOR "\000\000"
    VALUE "OriginalFilename", PLUGIN_FILENAME "\000"
